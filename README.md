@@ -3,7 +3,7 @@
 ## Objetivo
 criar um dashboard que analisa as principais características dos leads que visitam um e-commerce.
 
-### Gráfico
+### Principais Análises Realizadas:
 
 Foi mostrado algumas informações importantes:
 
