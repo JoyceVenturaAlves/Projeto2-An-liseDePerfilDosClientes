@@ -1,7 +1,7 @@
 # Projeto 2 - Análise De Perfil Dos Clientes
 <br/><br/>
 ## Objetivo
-criar um dashboard que analisa as principais características dos leads que visitam o nosso e-commerce.
+criar um dashboard que analisa as principais características dos leads que visitam um e-commerce.
 
 ### Gráfico
 
